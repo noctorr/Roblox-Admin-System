@@ -145,6 +145,5 @@ function DataService:PlayerAdded(player: Player)
     end
 end
 
-return DataService
 
 return DataService
