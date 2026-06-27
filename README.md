@@ -1,2 +1,3 @@
 # Roblox-Admin-System
-This may be still in works depending on which time you see this.
+
+Basic Admin System, no built-in UI just full server-authoritative chat commands.
